@@ -1,4 +1,3 @@
-# modules/port_scanner.py
 import socket
 
 def scan_ports(target):
