@@ -12,7 +12,7 @@ def scan_port(target, port):
         print(f"[+] Port {port} is OPEN")
     sock.close()
 
-def scan_ports(target):
+def run(target):
     print(f"\n[+] Scanning top ports on {target}...\n")
     threads = []
 
