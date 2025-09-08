@@ -77,13 +77,7 @@ kali
 python3 -m http.server 8000
 # open http://127.0.0.1:8000/test.html
 
-Then run toolkit:
-Enter target URL: http://127.0.0.1:8000/test.html
-[+] Found form: /login
-[+] Testing SQLi...
-[-] No SQLi found
-[+] Testing XSS...
-[+] Potential XSS vulnerability detected in field 'username'
+
 
 
 
