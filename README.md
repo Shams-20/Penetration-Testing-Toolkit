@@ -11,6 +11,7 @@ Currently includes:
 
 ## 📂 Project Structure
 
+```
 Penetration-Testing-Toolkit/
 ├─ main.py                # Menu to run modules
 ├─ modules/
@@ -22,6 +23,8 @@ Penetration-Testing-Toolkit/
 │   └─ helper_funcs.py    # Shared functions (e.g., IP validation)
 ├─ wordlist.txt           # Password wordlist for brute-forcer
 └─ README.md              # This file
+```
+
 
 
 
